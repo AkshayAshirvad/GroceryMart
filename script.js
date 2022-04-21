@@ -50,7 +50,7 @@ function showSlides(n) {
 var swiper = new Swiper(".mySwiper", {
   slidesPerView: 3,
   grid: {
-    rows: 2,
+    rows: 1,
   },
   spaceBetween: 30,
   pagination: {
